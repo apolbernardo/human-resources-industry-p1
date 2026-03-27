@@ -1,10 +1,11 @@
 # Working condition satisfaction
 
 ## Project Overview
-This project analyzes he responses of the surveys from the employees regarding to their personal experiences working in he company. Tackles 3 main parts
-1. Salary
-2. Time
-3. workload
+This project analyzes the responses of the surveys from the employees regarding their personal experiences working in the company. Tackles 3 main parts
+
+1.Salary
+2.Time
+3.workload
 
 ## Tools & Techniques
 - Python (Pandas, NumPy)
@@ -14,7 +15,7 @@ This project analyzes he responses of the surveys from the employees regarding t
 
 
 ## Key Insighs
-- ##Salary & Compensation as a Key Factor:## – Employees’ satisfaction is strongly influenced by how fair and competitive their salaries are compared to their workload and market standards.
+- ##Salary & Compensation as a Key Factor:## – Employees satisfaction is strongly influenced by how fair and competitive their salaries are compared to their workload and market standards.
 - ##Departmental Workload Differences:## – Certain departments, like Sales, tend to have higher workload stress, impacting overall satisfaction more than others.
 - ##Work Environment & Support:## – Factors like management support, teamwork, and workplace culture play a significant role in employee engagement and satisfaction.
 - ##Perception of Growth Opportunities:## – Employees value clear career progression and training; lack of development opportunities can reduce satisfaction.
