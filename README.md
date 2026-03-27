@@ -1,4 +1,4 @@
-# Working condition satisfacion
+# Working condition satisfaction
 
 ## Project Overview
 This project analyzes he responses of the surveys from the employees regarding to their personal experiences working in he company. Tackles 3 main parts
